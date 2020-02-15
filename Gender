@@ -1,5 +1,8 @@
-enum Gender
+using System;
+  namespace Gender
   {
-    Male,
-    Female
-  }
+    enum Gender
+      {
+         Male,
+         Female
+      }
